@@ -24,6 +24,9 @@ body{
 .scroll{
     scroll-snap-align: start;
 }
+video{
+    pointer-events: none;
+}
 #headContainer{
     height: 100vh;
     padding: 2rem 10%;
